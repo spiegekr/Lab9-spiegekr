@@ -23,4 +23,6 @@ game = gets.chomp
 if game == 1
 	print "Boom"
 	exit
+else
+	exit
 end
