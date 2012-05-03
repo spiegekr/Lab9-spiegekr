@@ -17,3 +17,10 @@ puts '4. Tichu'
 puts '5. Red Dragon Inn with drinking'
 
 puts 'Choose wisely'
+
+game = gets.chomp
+
+if game == 1
+	print "Boom"
+	exit
+end
